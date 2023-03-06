@@ -2,3 +2,4 @@ negro
 blanco
 azul
 rojo
+violeta
