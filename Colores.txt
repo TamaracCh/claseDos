@@ -1,3 +1,4 @@
 negro
 blanco
-azu
+azul
+rojo
